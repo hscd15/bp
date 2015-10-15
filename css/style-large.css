@@ -1,0 +1,19 @@
+/*
+	Transit by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
+
+.menuSection {
+    width: 33.33%;
+    float: left;
+    border: 1px solid white;
+}
+
+.itemWrap {
+    width: 32%;
+    height: 13rem;
+    margin-right: 1%;
+    float: left;
+    clear: right;
+}

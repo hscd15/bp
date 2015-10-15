@@ -1,0 +1,60 @@
+{
+    "wingsAndThings": [{
+        "wingPlatter": [{
+            "oneSize": [{
+                "name": "Wing platter:",
+                "description": "12 Wings, french fries & gravy",
+                "price": 12.95
+            }]
+        }],
+        "12Pc": [{
+            "oneSize": [{
+                "name": "12 wings:",
+                "description": "",
+                "price": 9.95
+            }]
+        }],
+        "20Pc": [{
+            "oneSize": [{
+                "name": "20 wings:",
+                "description": "",
+                "price": 14.95
+            }]
+        }],
+        "30Pc": [{
+            "oneSize": [{
+                "name": "30 wings:",
+                "description": "",
+                "price": 20.95
+            }]
+        }],
+        "40Pc": [{
+            "oneSize": [{
+                "name": "40 wings:",
+                "description": "",
+                "price": 25.95
+            }]
+        }],
+        "snackBox": [{
+            "oneSize": [{
+                "name": "Snack box:",
+                "description": "2 chicken fingers, 3 chicken nuggets, 2 egg rolls, onion rings, zucchini, plum sauce, garlic dip",
+                "price": 10.95
+            }]
+        }],
+        "magicBox": [{
+            "oneSize": [{
+                "name": "Magic box:",
+                "description": "3 chicken fingers, 2 egg rolls, french fries, onion rings, zucchini, plum sauce, garlic dip",
+                "price": 10.95
+            }]
+        }],
+        "comboBox": [{
+            "oneSize": [{
+                "name": "Combo box:",
+                "description": "6 chicken wings, 6 chicken nuggets, 6 mini egg rolls, 6 pieces of zucchini",
+                "price": 11.95
+            }]
+        }]
+    }]
+}

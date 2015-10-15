@@ -1,0 +1,355 @@
+{
+    "singlePizza": [{
+        "plain": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small plain pizza:",
+                "description": "comes with sauce & cheese",
+                "price": 8.60
+                    }],
+            "medium": [{
+                "name": "Medium plain pizza:",
+                "description": "comes with sauce & cheese",
+                "price": 12.95
+                    }],
+            "large": [{
+                "name": "Large plain pizza:",
+                "description": "comes with sauce & cheese",
+                "price": 15.95
+                    }],
+            "xL": [{
+                "name": "xLarge plain pizza",
+                "description": "comes with sauce & cheese",
+                "price": 19.95
+                    }]
+                }],
+        "oneTopping": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small one topping pizza:",
+                "description": "comes with one topping",
+                "price": 9.55
+                    }],
+            "medium": [{
+                "name": "Medium one topping pizza:",
+                "description": "comes with one topping",
+                "price": 14.45
+                    }],
+            "large": [{
+                "name": "Large one topping pizza:",
+                "description": "comes with one topping",
+                "price": 17.90
+                    }],
+            "xL": [{
+                "name": "xLarge one topping pizza:",
+                "description": "comes with one topping",
+                "price": 21.85
+                    }]
+                }],
+        "hawaiian": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small hawaiian pizza:",
+                "description": "comes with ham & pineapple",
+                "price": 10.45
+                    }],
+            "medium": [{
+                "name": "Medium hawaiian pizza:",
+                "description": "comes with ham & pineapple",
+                "price": 15.95
+                    }],
+            "large": [{
+                "name": "Large hawaiian pizza:",
+                "description": "comes with ham & pineapple",
+                "price": 19.85
+                    }],
+            "xL": [{
+                "name": "xLarge hawaiian pizza:",
+                "description": "comes with ham & pineapple",
+                "price": 23.45
+                    }]
+                }],
+        "combination": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small combination pizza:",
+                "description": "comes with pepperoni, green pepper & mushroom",
+                "price": 10.95
+                    }],
+            "medium": [{
+                "name": "Medium combination pizza:",
+                "description": "comes with pepperoni, green pepper & mushroom",
+                "price": 16.95
+                    }],
+            "large": [{
+                "name": "Large combination pizza:",
+                "description": "comes with pepperoni, green pepper & mushroom",
+                "price": 20.15
+                    }],
+            "xL": [{
+                "name": "xLarge combination pizza:",
+                "description": "comes with pepperoni, green pepper & mushroom",
+                "price": 24.85
+                    }]
+                }],
+        "poutinePizza": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small poutine pizza:",
+                "description": "comes with gravy, fries, chicken or steak.",
+                "price": 10.95
+                    }],
+            "medium": [{
+                "name": "Medium poutine pizza:",
+                "description": "comes with gravy, fries, chicken or steak.",
+                "price": 16.95
+                    }],
+            "large": [{
+                "name": "Large poutine pizza:",
+                "description": "comes with gravy, fries, chicken or steak.",
+                "price": 20.15
+                    }],
+            "xL": [{
+                "name": "xLarge poutine pizza:",
+                "description": "comes with gravy, fries, chicken or steak.",
+                "price": 24.85
+                    }]
+                }],
+        "donairPizza": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small donair pizza:",
+                "description": "comes with donair meat, mushroom, green pepper & onion.",
+                "price": 11.45
+                    }],
+            "medium": [{
+                "name": "Medium donair pizza:",
+                "description": "comes with donair meat, mushroom, green pepper & onion.",
+                "price": 17.55
+                    }],
+            "large": [{
+                "name": "Large donair pizza:",
+                "description": "comes with donair meat, mushroom, green pepper & onion.",
+                "price": 21.05
+                    }],
+            "xL": [{
+                "name": "xLarge donair pizza:",
+                "description": "comes with donair meat, mushroom, green pepper & onions.",
+                "price": 25.95
+                    }]
+                }],
+        "pizzaBurger": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small pizza burger:",
+                "description": "comes with ground beef, mushroom, green pepper & onions.",
+                "price": 11.45
+                    }],
+            "medium": [{
+                "name": "Medium pizza burger:",
+                "description": "comes with ground beef, mushroom, green pepper & onions.",
+                "price": 17.55
+                    }],
+            "large": [{
+                "name": "Large pizza burger:",
+                "description": "comes with ground beef, mushroom, green pepper & onions.",
+                "price": 21.05
+                    }],
+            "xL": [{
+                "name": "xLarge pizza burger:",
+                "description": "comes with ground beef, mushroom, green pepper & onions.",
+                "price": 25.95
+                    }]
+                }],
+        "mexicanPizza": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small mexican pizza:",
+                "description": "comes with black olive, hot banana peppers, onions & ground beef",
+                "price": 11.45
+                    }],
+            "medium": [{
+                "name": "Medium mexican pizza:",
+                "description": "comes with black olive, hot banana peppers, onions & ground beef",
+                "price": 17.55
+                    }],
+            "large": [{
+                "name": "Large mexican pizza:",
+                "description": "comes with black olive, hot banana peppers, onions & ground beef",
+                "price": 21.05
+                    }],
+            "xL": [{
+                "name": "xLarge mexican pizza:",
+                "description": "comes with black olive, hot banana peppers, onions & ground beef",
+                "price": 25.95
+                    }]
+                }],
+        "chickenPizza": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small chicken pizza:",
+                "description": "comes with chicken, onion, mushroom, green pepper, with BBQ sauce",
+                "price": 11.45
+                    }],
+            "medium": [{
+                "name": "Medium chicken pizza:",
+                "description": "comes with chicken, onion, mushroom, green pepper, with BBQ sauce",
+                "price": 17.55
+                    }],
+            "large": [{
+                "name": "Large chicken pizza:",
+                "description": "comes with chicken, onion, mushroom, green pepper, with BBQ sauce",
+                "price": 21.05
+                    }],
+            "xL": [{
+                "name": "xLarge chicken pizza:",
+                "description": "comes with chicken, onion, mushroom, green pepper, with BBQ sauce",
+                "price": 25.95
+                    }]
+                }],
+        "chefSpecial": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small chef's special pizza (MEAT LOVERS):",
+                "description": "comes with pepperoni, bacon, ham & italian sausage",
+                "price": 11.95
+                    }],
+            "medium": [{
+                "name": "Medium chef's special pizza (MEAT LOVERS):",
+                "description": "comes with pepperoni, bacon, ham & italian sausage",
+                "price": 18.35
+                    }],
+            "large": [{
+                "name": "Large chef's special pizza (MEAT LOVERS):",
+                "description": "comes with pepperoni, bacon, ham & italian sausage",
+                "price": 21.85
+                    }],
+            "xL": [{
+                "name": "xLarge chef's special pizza (MEAT LOVERS):",
+                "description": "comes with pepperoni, bacon, ham & italian sausage",
+                "price": 26.95
+                    }]
+                }],
+        "vegetarian": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small vegetarian pizza:",
+                "description": "comes with mushroom, green pepper, onion & tomato slices",
+                "price": 11.95
+                    }],
+            "medium": [{
+                "name": "Medium vegetarian pizza:",
+                "description": "comes with mushroom, green pepper, onion & tomato slices",
+                "price": 18.35
+                    }],
+            "large": [{
+                "name": "Large vegetarian pizza:",
+                "description": "comes with mushroom, green pepper, onion & tomato slices",
+                "price": 21.85
+                    }],
+            "xL": [{
+                "name": "xLarge vegetarian pizza:",
+                "description": "comes with mushroom, green pepper, onion & tomato slices",
+                "price": 26.95
+                    }]
+                }],
+        "barneysSpecial": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small barney's special pizza:",
+                "description": "comes with bacon, mushroom, green pepper, onion, olives & tomato slices",
+                "price": 11.95
+                    }],
+            "medium": [{
+                "name": "Medium barney's special pizza:",
+                "description": "comes with bacon, mushroom, green pepper, onion, olives & tomato slices",
+                "price": 18.35
+                    }],
+            "large": [{
+                "name": "Large barney's special pizza:",
+                "description": "comes with bacon, mushroom, green pepper, onion, olives & tomato slices",
+                "price": 21.85
+                    }],
+            "xL": [{
+                "name": "xLarge barney's special pizza:",
+                "description": "comes with bacon, mushroom, green pepper, onion, olives & tomato slices",
+                "price": 26.95
+                    }]
+                }],
+        "barneysSuperSpecial": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small barney's super special pizza:",
+                "description": "comes with pepperoni, bacon, mushroom, green peppers, onion and olives",
+                "price": 12.45
+                    }],
+            "medium": [{
+                "name": "Medium barney's super special pizza:",
+                "description": "comes with pepperoni, bacon, mushroom, green peppers, onion and olives",
+                "price": 18.95
+                    }],
+            "large": [{
+                "name": "Large barney's super special pizza:",
+                "description": "comes with pepperoni, bacon, mushroom, green peppers, onion and olives",
+                "price": 22.45
+                    }],
+            "xL": [{
+                "name": "xLarge barney's super special pizza:",
+                "description": "comes with pepperoni, bacon, mushroom, green peppers, onion and olives",
+                "price": 27.85
+                    }]
+                }]
+            }]
+}

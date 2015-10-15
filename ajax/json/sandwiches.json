@@ -1,0 +1,42 @@
+{
+    "sandwiches": [{
+        "clubSandwich": [{
+            "sandwich": [{
+                "name": "Club sandwich:",
+                "description": "choice of real turkey or chicken",
+                "price": 10.45
+            }]
+        }],
+        "hotHamburger": [{
+            "sandwich": [{
+                "name": "Hot hamburger sandwhich:",
+                "description": "seasoned beef",
+                "price": 9.95
+            }]
+        }],
+        "hotBeefChicken": [{
+            "sZ": [{
+                "name": "Please select an option",
+                "description": "",
+                "price": 0
+            }],
+            "beef": [{
+                "name": "Hot beef sandwich:",
+                "description": "",
+                "price": 9.95
+            }],
+            "chicken": [{
+                "name": "Hot chicken sandwich",
+                "description": "",
+                "price": 9.95
+            }]
+        }],
+        "bLT": [{
+            "sandwich": [{
+                "name": "B.L.T sandwich:",
+                "description": "bacon, lettuce, tomato",
+                "price": 9.95
+            }]
+        }]
+    }]
+}
