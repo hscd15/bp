@@ -39,3 +39,7 @@ textarea {
     padding-left: 0;
     display: block;
 }
+
+.notMobile {
+    display: block;
+}
