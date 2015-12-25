@@ -27,6 +27,22 @@ textarea {
 .wrapper.style2 footer {
     width: 85%;
 }
+<<<<<<< HEAD
+=======
+
+.contactUs a {
+    width: 65%;
+    margin: 0 17.5%;
+}
+
+.mobile {
+    display: block;
+}
+
+.notMobile {
+    display: none;
+}
+>>>>>>> master
 /* Footer */
 
 #footer {
@@ -38,8 +54,11 @@ textarea {
     margin-left: 0;
     padding-left: 0;
     display: block;
+<<<<<<< HEAD
 }
 
 .notMobile {
     display: block;
+=======
+>>>>>>> master
 }

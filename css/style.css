@@ -1222,6 +1222,42 @@ body.landing #header nav a {
 .hideScroll {
     overflow: hidden;
 }
+<<<<<<< HEAD
+=======
+/**************** Specials *****************/
+
+#specialsModal {
+    position: fixed;
+    left: 0%;
+    z-index: 100;
+    width: 100%;
+}
+.header {
+    width: 100%;
+    height: 3.5rem;
+    position: fixed;
+    z-index: 100;
+    background: url(../images/jpg&png/black_linen_v2.jpg) repeat;
+}
+.header h2 {
+    float: left;
+    padding-top: 1.5rem;
+    line-height: 0;
+    color: white;
+}
+.specialsList div {
+    width: 50%;
+    height: 50%;
+}
+.specialsList div:nth-child(odd) {
+    background: red;
+    float: left;
+}
+.specialsList div:nth-child(even) {
+    background: blue;
+    float: right;
+}
+>>>>>>> master
 /**************** Shopping Categories *****************/
 
 .menuSection {
@@ -1236,11 +1272,19 @@ body.landing #header nav a {
     color: transparent;
 }
 #singlePizza {
+<<<<<<< HEAD
     background: url(../images/jpg&png/vegPizza.jpg) no-repeat center center;
     background-size: cover;
 }
 #twoPizzaSpecial {
     background: url(../images/jpg&png/2Pizza.jpg) no-repeat center center;
+=======
+    background: url(../images/jpg&png/singlePizza.jpg) no-repeat center center;
+    background-size: cover;
+}
+#twoPizzaSpecial {
+    background: url(../images/jpg&png/twoPizzaSpecial.jpg) no-repeat center center;
+>>>>>>> master
     background-size: cover;
 }
 #subs {
@@ -1255,6 +1299,7 @@ body.landing #header nav a {
     background-size: cover;
 }
 #wingsAndThings {
+<<<<<<< HEAD
     background: url(../images/jpg&png/wings.jpg) no-repeat center center;
     background-size: cover;
 }
@@ -1264,6 +1309,17 @@ body.landing #header nav a {
 }
 #salads {
     background: url(../images/jpg&png/greekSalad.jpg) no-repeat center center;
+=======
+    background: url(../images/jpg&png/wingsAndThings.jpg) no-repeat center center;
+    background-size: cover;
+}
+#burgers {
+    background: url(../images/jpg&png/burgers.jpg) no-repeat center center;
+    background-size: cover;
+}
+#salads {
+    background: url(../images/jpg&png/salads.jpg) no-repeat center center;
+>>>>>>> master
     background-size: cover;
 }
 #italian {
@@ -1285,6 +1341,7 @@ body.landing #header nav a {
     margin: -0.5rem 5%;
     padding-top: 0.25rem;
     border-radius: 5px;
+<<<<<<< HEAD
     background: url(../images/jpg&png/black_linen_v2.jpg);
 }
 .backBtn {
@@ -1323,6 +1380,31 @@ body.landing #header nav a {
     width: 90%;
     margin: 3.5rem 5% 1rem;
     padding: 0.5rem;
+=======
+}
+.btnPadding {
+    height: inherit;
+    width: 5.5rem;
+    float: left;
+}
+.backBTn {
+    float: right;
+    width: 17%;
+    margin: 0.5rem;
+    height: inherit;
+}
+.backBTn img {
+    height: 70%;
+    padding: 0.5rem 1rem;
+    background: rgba(144, 144, 144, 0.65);
+    border-radius: 5px;
+}
+
+.servedWith {
+    width: 90%;
+    margin: 0rem 5% 1rem;
+    padding: 4rem 0.5rem 0.5rem;
+>>>>>>> master
     background: rgba(256, 256, 256, 0.2);
     border-radius: 4px;
 }
@@ -1344,6 +1426,7 @@ body.landing #header nav a {
 .menuWrap .servedWith {
     margin: 0.5rem 0;
     padding: 2rem 5% 2rem;
+<<<<<<< HEAD
     background: #fff;
 }
 .menuWrap .servedWith p {
@@ -1358,17 +1441,34 @@ body.landing #header nav a {
 .itemWrap {
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 4px;
+=======
+    background: rgba(256, 256, 256, 0.2);
+}
+.menuWrap .servedWith p {
+    color: #fff;
+}
+.pushDown{
+    margin: 3.5rem 5% 1rem;
+}
+.itemWrap {
+>>>>>>> master
     position: relative;
     padding: 1rem;
     margin: 0.5rem 0;
     width: 100%;
+<<<<<<< HEAD
     -webkit-box-shadow: inset 0px 0px 13px 0px rgba(0, 0, 0, 0.39);
     -moz-box-shadow: inset 0px 0px 13px 0px rgba(0, 0, 0, 0.39);
     box-shadow: inset 0px 0px 13px 0px rgba(0, 0, 0, 0.39);
+=======
+    background: #fff;
+    border-radius: 5px;
+>>>>>>> master
 }
 .title {
     font-weight: 600;
     font-size: 1.5rem;
+<<<<<<< HEAD
     color: #fff;
     padding: 0 5%;
     margin: 1rem 0 0.25rem 0%;
@@ -1380,6 +1480,19 @@ body.landing #header nav a {
     margin: 0;
     font-size: 1.25rem;
     margin-bottom: 1rem;
+=======
+    text-align: center;
+    color: black;
+    margin: 0;
+}
+.description {
+    color: black;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    font-size: 1.25rem;
+    margin-bottom: 0.25rem;
+>>>>>>> master
 }
 .listDescription {
     padding: 0 0 0 15%;
@@ -1392,6 +1505,7 @@ body.landing #header nav a {
     position: relative;
     z-index: 70;
     bottom: 0%;
+<<<<<<< HEAD
     width: 90%;
     margin: 0 5%;
     color: #fff;
@@ -1401,6 +1515,16 @@ body.landing #header nav a {
     padding: 0 7.5% 0;
     outline-color: transparent;
     background: rgba(256, 256, 256, 0.1);
+=======
+    width: 100%;
+    margin: 0;
+    color: black;
+}
+.itemWrap form select {
+    font-size: 1rem;
+    outline-color: transparent;
+    background: rgba(0, 0, 0, 0.3);
+>>>>>>> master
 }
 .price {
     color: #fff;
@@ -1416,7 +1540,10 @@ body.landing #header nav a {
 .addToCart:visited,
 .addToCart:active,
 .addToCart:hover {
+<<<<<<< HEAD
     display: none;
+=======
+>>>>>>> master
     position: absolute;
     z-index: 90;
     bottom: 10%;
@@ -1436,11 +1563,34 @@ body.landing #header nav a {
 .addToCart img {
     width: 100%;
 }
+<<<<<<< HEAD
 /******************* Transitions **************/
 
 .left {
     top: 0;
     left: -100%;
+=======
+/******************* Footer ***************/
+
+.mobile {
+    display: none;
+}
+.notMobile {
+    display: block;
+}
+.contactUs ul {
+    width: 100%;
+    padding: 0;
+}
+.contactUs li {
+    padding: 0;
+    list-style: none;
+}
+/******************* Transitions **************/
+
+.bottom {
+    top: 100%;
+>>>>>>> master
 }
 [data-state="fromLeft"] {
     left: 0%;
@@ -1490,4 +1640,61 @@ body.landing #header nav a {
 }
 .row {
     margin: 0;
+<<<<<<< HEAD
+=======
+}
+[data-state="fromBottom"] {
+    top: 0%;
+    -webkit-animation: bringUp 750ms 1 ease-in-out;
+    animation: bringUp 750ms 1 ease-in-out;
+}
+@-webkit-keyframes bringUp {
+    0% {
+        top: 100%;
+    }
+    
+    100% {
+        top: 0%;
+    }
+}
+@keyframes bringUp {
+    0% {
+        top: 100%;
+    }
+    
+    100% {
+        top: 0%;
+    }
+}
+[data-state="toBottom"] {
+    top: 100%;
+    -webkit-animation: bringDown 500ms 1 ease-in-out;
+    animation: bringDown 500ms 1 ease-in-out;
+}
+@-webkit-keyframes bringDown {
+    0% {
+        top: 0%;
+    }
+    
+    100% {
+        top: 100%;
+    }
+}
+@keyframes bringDown {
+    0% {
+        top: 0%;
+    }
+    
+    100% {
+        top: 100%;
+    }
+}
+
+.MOD {
+    position: fixed;
+    z-index: 90;
+    overflow: scroll;
+    width: 100%;
+    background: url(../images/jpg&png/black_linen_v2.jpg) repeat;
+>>>>>>> master
 }
