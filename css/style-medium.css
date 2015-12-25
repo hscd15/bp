@@ -52,20 +52,7 @@ header.major p {
 }
 
 .itemWrap {
-<<<<<<< HEAD
-    width: 49%;
-}
-
-.itemWrap:nth-child(odd){
-    float: left;
-    clear: left;
-}
-.itemWrap:nth-child(even){
-    float: right;
-    clear: right;
-=======
     width: 100%;
->>>>>>> master
 }
 /* Layers */
 
@@ -155,14 +142,4 @@ header.major p {
 
 #footer .icons {
     text-align: center;
-<<<<<<< HEAD
-}
-
-.mobile {
-    display: none;
-}
-.notMobile {
-    display: block;
-=======
->>>>>>> master
 }
