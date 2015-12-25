@@ -1,0 +1,106 @@
+{
+    "italian": [{
+        "spaghetti": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small spaghetti:",
+                "description": "with meat sauce",
+                "price": 8.75
+            }],
+            "large": [{
+                "name": "Large spaghetti:",
+                "description": "with meat sauce",
+                "price": 10.95
+            }]
+        }],
+        "spaghettiExtra": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small spaghetti:",
+                "description": "with meatballs",
+                "price": 9.50
+            }],
+            "large": [{
+                "name": "Large spaghetti:",
+                "description": "with meatballs",
+                "price": 12.25
+            }]
+        }],
+        "bakedSpaghetti": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small spaghetti:",
+                "description": "comes baked",
+                "price": 9.50
+            }],
+            "large": [{
+                "name": "Large spaghetti:",
+                "description": "comes baked",
+                "price": 12.25
+            }]
+        }],
+        "lasagna": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small lasagna:",
+                "description": "with sauce",
+                "price": 9.50
+            }],
+            "large": [{
+                "name": "Large lasagna:",
+                "description": "with sauce",
+                "price": 12.25
+            }]
+        }],
+        "lasagnaExtra": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small lasagna:",
+                "description": "with pepperoni & mushrooms",
+                "price": 10.25
+            }],
+            "large": [{
+                "name": "Large lasagna:",
+                "description": "with pepperoni & mushrooms",
+                "price": 12.95
+            }]
+        }],
+        "parmigiana": [{
+            "sZ": [{
+                "name": "Please select an option.",
+                "description": "",
+                "price": 0
+            }],
+            "chicken": [{
+                "name": "Parmigiana:",
+                "description": "chicken",
+                "price": 12.95
+            }],
+            "veal": [{
+                "name": "Parmigiana:",
+                "description": "veal",
+                "price": 12.95
+            }]
+        }]
+    }]
+}

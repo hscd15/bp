@@ -1,0 +1,178 @@
+{
+    "sides": [{
+        "fries": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Fries:",
+                "description": "small.",
+                "price": 2.50
+            }],
+            "medium": [{
+                "name": "Fries:",
+                "description": "medium.",
+                "price": 3.75
+            }],
+            "large": [{
+                "name": "Fries:",
+                "description": "large.",
+                "price": 5.50
+            }]
+        }],
+        "poutine": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Poutine:",
+                "description": "small.",
+                "price": 5.75
+            }],
+            "large": [{
+                "name": "Poutine:",
+                "description": "large.",
+                "price": 8.50
+            }]
+        }],
+        "putineWithMushroom": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Poutine with mushrooms:",
+                "description": "small.",
+                "price": 6.25
+            }],
+            "large": [{
+                "name": "Poutine with mushrooms:",
+                "description": "large.",
+                "price": 9.50
+            }]
+        }],
+        "onionRings": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Onion rings:",
+                "description": "small.",
+                "price": 2.95
+            }],
+            "medium": [{
+                "name": "Onion rings:",
+                "description": "medium.",
+                "price": 4.25
+            }],
+            "large": [{
+                "name": "Onion rings:",
+                "description": "large.",
+                "price": 6.25
+            }]
+        }],
+        "garlicBread": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Garlic bread:",
+                "description": "small with cheese.",
+                "price": 3.45
+            }],
+            "large": [{
+                "name": "Garlic bread:",
+                "description": "large.",
+                "price": 4.75
+            }]
+        }],
+        "garlicBreadBacon": [{
+            "oneSize": [{
+                "name": "Garlic bread:",
+                "description": "with bacon.",
+                "price": 5.75
+            }]
+        }],
+        "friedZucchini": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Fried zucchini:",
+                "description": "small.",
+                "price": 5.95
+            }],
+            "large": [{
+                "name": "Fried zucchini:",
+                "description": "large.",
+                "price": 9.25
+            }]
+        }],
+        "breadedMushroom": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Breaded mushroom:",
+                "description": "small.",
+                "price": 5.95
+            }],
+            "large": [{
+                "name": "Breaded mushroom:",
+                "description": "large.",
+                "price": 9.25
+            }]
+        }],
+        "poutineWithChicken": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Chicken poutine:",
+                "description": "small.",
+                "price": 6.75
+            }],
+            "large": [{
+                "name": "Chicken poutine:",
+                "description": "large.",
+                "price": 9.75
+            }]
+        }],
+        "eggRolls12": [{
+            "oneSize": [{
+                "name": "Egg rolls:",
+                "description": "12 pieces.",
+                "price": 5.95
+            }]
+        }],
+        "cheeseSticks": [{
+            "oneSize": [{
+                "name": "Cheese sticks:",
+                "description": "12 pieces.",
+                "price": 8.75
+            }]
+        }],
+        "nachos": [{
+            "oneSize": [{
+                "name": "Nachos.",
+                "description": "",
+                "price": 8.95 
+            }]
+        }]
+    }]
+}

@@ -1,0 +1,55 @@
+{
+    "ethnic": [{
+        "donair": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "single": [{
+                "name": "Single donair:",
+                "description": "seasoned beef, lettuce, & tomato in pita bread with",
+                "price": 8.25
+            }],
+            "two": [{
+                "name": "Two donair:",
+                "description": "seasoned beef, lettuce, & tomato in pita bread with",
+                "price": 14.95
+            }]
+        }],
+        "shawarma": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "single": [{
+                "name": "Single shawarma:",
+                "description": "marinated beef or chicken, lettuce & tomato in pita bread with",
+                "price": 8.25
+            }],
+            "two": [{
+                "name": "Two shawarma:",
+                "description": "marinated beef or chicken, lettuce & tomato in pita bread with",
+                "price": 14.95
+            }]
+        }],
+        "shawarmaPlatter": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "single": [{
+                "name": "Single shawarma platter:",
+                "description": "with french fries and chef's salad (creamy garlic dressing)",
+                "price": 11.95
+            }],
+            "two": [{
+                "name": "Two shawarma platter:",
+                "description": "with french fries and chef's salad (creamy garlic dressing)",
+                "price": 20.95
+            }]
+        }]
+    }]
+}

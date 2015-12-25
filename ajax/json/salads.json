@@ -1,0 +1,89 @@
+{
+    "salads": [{
+        "chefSalad": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small chef salad:",
+                "description": "lettuce, tomato, green pepper.",
+                "price": 4.95
+            }],
+            "large": [{
+                "name": "Large chef salad:",
+                "description": "lettuce, tomato, green pepper.",
+                "price": 6.95
+            }]
+        }],
+        "gardenSalad": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small garden salad:",
+                "description": "lettuce, tomato, green pepper, olives, onions.",
+                "price": 5.95
+            }],
+            "large": [{
+                "name": "Large garden salad:",
+                "description": "lettuce, tomato, green pepper, olives, onions.",
+                "price": 8.25
+            }]
+        }],
+        "barneySalad": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small barney salad:",
+                "description": "garden salad with cheese & choice of ham or turkey.",
+                "price": 7.25
+            }],
+            "large": [{
+                "name": "Large barney salad:",
+                "description": "garden salad with cheese & choice of ham or turkey.",
+                "price": 9.25
+            }]
+        }],
+        "caesarSalad": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small caesar salad:",
+                "description": "lettuce, crutons & parmesan cheese.",
+                "price": 5.95
+            }],
+            "large": [{
+                "name": "Large caesar salad:",
+                "description": "lettuce, crutons & parmesan cheese.",
+                "price": 8.25
+            }]
+        }],
+        "greekSalad": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "small": [{
+                "name": "Small greek salad:",
+                "description": "lettuce, tomatoes, cucumbers, olives &amp; feta cheese.",
+                "price": 6.95
+            }],
+            "large": [{
+                "name": "Large greek salad:",
+                "description": "lettuce, tomatoes, cucumbers, olives &amp; feta cheese.",
+                "price": 8.75
+            }]
+        }]
+    }]
+}

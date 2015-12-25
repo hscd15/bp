@@ -1,0 +1,72 @@
+{
+    "burgers": [{
+        "chickenBurger": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "single": [{
+                "name": "Chicken burger:",
+                "description": "burger only.",
+                "price": 4.50
+            }],
+            "platter": [{
+                "name": "Chicken burger platter:",
+                "description": "served with fries & gravy.",
+                "price": 7.95
+            }]
+        }],
+        "hamburger": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "single": [{
+                "name": "Hamburger:",
+                "description": "burger only.",
+                "price": 4.25
+            }],
+            "platter": [{
+                "name": "Hamburger platter:",
+                "description": "served with fries & gravy.",
+                "price": 7.75
+            }]
+        }],
+        "cheeseBurger": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "single": [{
+                "name": "Cheeseburger:",
+                "description": "burger only.",
+                "price": 4.50
+            }],
+            "platter": [{
+                "name": "Cheeseburger platter:",
+                "description": "served with fries & gravy.",
+                "price": 7.95
+            }]
+        }],
+        "baconCheeseBurger": [{
+            "sZ": [{
+                "name": "Please select a size.",
+                "description": "",
+                "price": 0
+            }],
+            "single": [{
+                "name": "Bacon cheeseburger:",
+                "description": "burger only.",
+                "price": 4.95
+            }],
+            "platter": [{
+                "name": "Bacon cheeseburger platter:",
+                "description": "served with fries & gravy.",
+                "price": 8.45
+            }]
+        }]
+    }]
+}

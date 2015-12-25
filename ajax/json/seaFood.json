@@ -1,0 +1,18 @@
+{
+    "seaFood": [{
+        "fishNChips": [{
+            "oneSize": [{
+                "name": "Fish N Chips:",
+                "description": "3 pcs, fries & tartar sauce.",
+                "price": 10.95
+            }]
+        }],
+        "shrimpBasket": [{
+            "oneSize": [{
+                "name": "Shripm in a basket:",
+                "description": "with fries & shrimp sauce.",
+                "price": 9.50
+            }]
+        }]
+    }]
+}
