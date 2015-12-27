@@ -17,6 +17,10 @@ textarea {
 .menuSection {
     padding: 8em 2em 8em;
 }
+
+.menuSection {
+    border: 1px solid black;
+}
 /* Wrapper */
 
 .wrapper {

@@ -192,6 +192,10 @@ header h2 + p {
     line-height: 1.5em;
 }
 
+.twoPizzaTitle {
+    font-size: 1.5rem;
+}
+
 header h3 + p {
     font-size: 1.1em;
     margin-top: -0.8em;
@@ -1262,7 +1266,7 @@ body.landing #header nav a {
     height: 8rem;
     padding: 7em 0em 7em;
     text-align: center;
-    border-bottom: 0.25rem solid white;
+    border-bottom: 0.25rem solid black;
 }
 .menuSection h2 {
     height: 0;
@@ -1336,7 +1340,6 @@ body.landing #header nav a {
     background: rgba(144, 144, 144, 0.65);
     border-radius: 5px;
 }
-
 .servedWith {
     width: 90%;
     margin: 0rem 5% 1rem;
@@ -1367,7 +1370,7 @@ body.landing #header nav a {
 .menuWrap .servedWith p {
     color: #fff;
 }
-.pushDown{
+.pushDown {
     margin: 3.5rem 5% 1rem;
 }
 .itemWrap {
@@ -1518,8 +1521,8 @@ body.landing #header nav a {
 }
 [data-state="fromBottom"] {
     top: 0%;
-    -webkit-animation: bringUp 750ms 1 ease-in-out;
-    animation: bringUp 750ms 1 ease-in-out;
+    -webkit-animation: bringUp 500ms 1 ease-in-out;
+    animation: bringUp 500ms 1 ease-in-out;
 }
 @-webkit-keyframes bringUp {
     0% {
@@ -1562,7 +1565,6 @@ body.landing #header nav a {
         top: 100%;
     }
 }
-
 .MOD {
     position: fixed;
     z-index: 90;

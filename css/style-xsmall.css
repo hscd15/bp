@@ -71,4 +71,5 @@ input[type="button"],
 .menuSection {
     width: 100%;
     padding: 1em 2em 0em;
+    border: 1px solid black;
 }

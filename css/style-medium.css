@@ -21,7 +21,7 @@ header.major p {
     font-size: 1.25em;
 }
 /* Header */
-
+    
 #skel-layers-wrapper {
     padding-top: 0;
 }
@@ -48,7 +48,7 @@ header.major p {
 .menuSection {
     width: 50%;
     float: left;
-    border: 1px solid white;
+    border: 1px solid black;
 }
 
 .itemWrap {
