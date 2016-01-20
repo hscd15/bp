@@ -1247,17 +1247,8 @@ body.landing #header nav a {
     line-height: 0;
     color: white;
 }
-.specialsList div {
-    width: 50%;
-    height: 50%;
-}
-.specialsList div:nth-child(odd) {
-    background: red;
-    float: left;
-}
-.specialsList div:nth-child(even) {
-    background: blue;
-    float: right;
+.specialsList {
+    margin-top: 3.5rem;
 }
 /**************** Shopping Categories *****************/
 
@@ -1267,6 +1258,7 @@ body.landing #header nav a {
     padding: 7em 0em 7em;
     text-align: center;
     border-bottom: 0.25rem solid black;
+    position: relative;
 }
 .menuSection h2 {
     height: 0;

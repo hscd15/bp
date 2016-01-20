@@ -35,10 +35,17 @@ $(function () {
 
     $('.BOD, .MOD').css('height', clientHeight + 'px');
 
+    //show specials
+    $('#specialsBtn').click(function (ev) {
+        ev.preventDefault;
+        $('.BOD').css('overflow', 'hidden');
+        //show modal
+        $('.MOD').attr('data-state', 'fromBottom');
+    });
+
     //get menuItems through ajax and show modal
     $('.menuBtn').click(function (ev) {
         ev.preventDefault;
-        $('menuCategories').toggleClass('hideScroll');
 
         gui.categoryChosen = $(this).parents('section').addBack().first().attr('id');
 

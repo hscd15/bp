@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="-301 393 8 8" style="enable-background:new -301 393 8 8;" xml:space="preserve">
+	 viewBox="-283 285.6 8 7" style="enable-background:new -283 285.6 8 7;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
 </style>
-<polygon class="st0" points="-298.3,393 -298.3,395.7 -301,395.7 -301,398.3 -298.3,398.3 -298.3,401 -295.7,401 -295.7,398.3 
-	-293,398.3 -293,395.7 -295.7,395.7 -295.7,393 "/>
+<g>
+	<path class="st0" d="M-275.3,286.9h-4.2c-0.2,0-0.3,0.1-0.3,0.3s0.1,0.3,0.3,0.3h3.8l-0.5,2.3h-3.7l-1-4c0-0.1-0.2-0.1-0.3-0.1
+		h-1.4c-0.2,0-0.3,0.1-0.3,0.3s0.1,0.3,0.3,0.3h1.2l1,4.2c0,0.1,0.2,0.3,0.3,0.3h4.2c0.2,0,0.3-0.2,0.3-0.4l0.6-3
+		c0-0.1,0-0.2-0.1-0.3C-275.1,287-275.2,286.9-275.3,286.9z"/>
+	<circle class="st0" cx="-279.3" cy="291.8" r="0.8"/>
+	<circle class="st0" cx="-276.8" cy="291.8" r="0.8"/>
+	<path class="st0" d="M-278.1,287.9c-0.1,0-0.2,0.1-0.2,0.2v0.3h-0.3c-0.1,0-0.2,0-0.2,0.2c0,0.1,0.1,0.2,0.2,0.2h0.3v0.5
+		c0,0.1,0,0.2,0.2,0.2s0.2-0.1,0.2-0.2v-0.5h0.5c0.1,0,0.2,0,0.2-0.2c0-0.1-0.1-0.2-0.2-0.2h-0.5v-0.3
+		C-278,288-278,287.9-278.1,287.9z"/>
+</g>
 </svg>
